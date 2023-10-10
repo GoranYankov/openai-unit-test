@@ -1,0 +1,22 @@
+{
+  "name": "unittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [
+    "open",
+    "ai"
+  ],
+  "author": "Goran Yankov",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "openai": "^4.11.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
